@@ -1,8 +1,5 @@
 # CIS486-SOBIE
 
-### SOBIE-Web
-https://sobieconference.org/
-
 ### Introduction
 1.1 Website Overview: 
 - The SOBIE conference website is an informational hub for business faculty members, administration, conference organizers, attendees, researchers, students, etc. 
