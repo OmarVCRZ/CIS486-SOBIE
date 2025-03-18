@@ -9,7 +9,7 @@
 The SOBIE website has front-end design and usability issues that hinder user experience capacity. 
 - The design is outdated; based on the website it has inconsistent styling and lacks visual appeal to the user experience. 
 - The navigation of the website has no clear menu structure, and it is hard to locate information because everything is jammed together at once. 
-- The interactivity of the SOBIE website is mostly a static page, lacking any user engagement features at all (Dr. Cumbie, 2025).  
+- The interactivity of the SOBIE website is mostly a static page, lacking any user engagement features at all. 
 
 ### User Information
 3.1 Primary Users & Their Needs
