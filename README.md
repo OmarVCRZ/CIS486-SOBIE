@@ -46,11 +46,10 @@ Administrator
 
 ### Project Roles & Responsibilities
 5.1 Roles/Responsibilities
-- Project Manager: Omar Diaz Martinez oversees the operation of the SOBIE project's milestones, ensures proper communication is established between the team and objectives, and ensures project goals are aligned. 
-- Security Specialist: Marvin De La Cruz Serrano identifies vulnerabilities of the SOBIE website, ensuring the website has proper security standards for websites. 
-- Front-End Developer: Josh Jordan looks at the design aspect of the website, optimizing the website's performance and functionality. 
-- UX/UI Designer: Austin Moses designs the visual elements of the website, making sure there is an improvement in user flow and site navigation. Also, ensure accessibility standards are met with collaboration with the Front-End Developer.
-
+- Project Manager: Omar Diaz Martinez oversees the operation of the SOBIE project's milestones. 
+- Security Specialist: Marvin De La Cruz Serrano identifies vulnerabilities of the SOBIE website.
+- Front-End Developer: Josh Jordan looks at the design aspect of the website. 
+- UX/UI Designer: Austin Moses designs the visual elements of the website. 
 ### Life Development Life Cycle 
 - Phase 1: Planning
   - Identify objectives, project scope, and requirements
