@@ -51,10 +51,11 @@ Administrator
 - Front-End Developer: Josh Jordan looks at the design aspect of the website. 
 - UX/UI Designer: Austin Moses designs the visual elements of the website.
 
-### PLAN
+### PLAN for Dev-King
 [Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
 
 ### Borrowed Content
+
 
 
 
