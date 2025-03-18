@@ -6,10 +6,10 @@
 
 ### System As-Is Report
 2.2 Identified Issues
-The SOBIE website has front-end design and usability issues that hinder user experience capacity. 
-- The design is outdated; based on the website it has inconsistent styling and lacks visual appeal to the user experience. 
-- The navigation of the website has no clear menu structure, and it is hard to locate information because everything is jammed together at once. 
-- The interactivity of the SOBIE website is mostly a static page, lacking any user engagement features at all. 
+- The SOBIE website has front-end design and usability issues that hinder user experience capacity. 
+  - The design is outdated; based on the website it has inconsistent styling and lacks visual appeal to the user experience. 
+  - The navigation of the website has no clear menu structure, and it is hard to locate information because everything is jammed together at once. 
+  - The interactivity of the SOBIE website is mostly a static page, lacking any user engagement features at all. 
 
 ### User Information
 3.1 Primary Users & Their Needs
@@ -20,7 +20,7 @@ The SOBIE website has front-end design and usability issues that hinder user exp
 3.2 User Stories
 Attendee Section
 - As_a new attendee, I want to understand what SOBIE is about and the simple registration form so I can easily sign up.
-- As_a conference attendee, I want to find event details and attend a conference. 
+- As_a conference attendee, I want to find event details and attend a conference by finding scheduled dates.
 - As_a conference attendee, I want to log in view my previous registrations, and track my past conference information.
 Researcher/Presenter Section
 - As_a researcher, I want a clear step-by-step process for submitting my paper without any sense of confusion or being lost in information. 
@@ -28,7 +28,7 @@ Researcher/Presenter Section
 - As_a researcher, I want to see some form of past information on papers and conference proceedings so that I can use them as a reference point (Plan for Dev-King 5)
 Administrator
 - As_an administrator, I want a simple way to update any event details on the SOBIE website so that it can be reflected (ad banner) in real-time events.
-- As_an administrator, I want to have some form of dashboard to manage SOBIE registrations so that I can track attendance.
+- As_an administrator, I want to have some form of dashboard to manage SOBIE registrations so that I can track attendance and events. 
 - As_an administrator, I want to manage contact form submissions (data) so that I can respond to submission posts. 
 
 ### Steps in Redesign & Metrics for Success 
