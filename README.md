@@ -33,15 +33,13 @@ Administrator
 
 ### Steps in Redesign & Metrics for Success 
 4.1 Actionable Improvements (Required/Necessary)
-- Navigation: Redesign SOBIE'S website menu for better reliability in accessing vital information like registering in the conference, submitting papers, etc. 
+- Navigation: Redesign SOBIE'S website menu to increase reliability in accessing information like registering in the conference, submitting papers, etc. 
 - UI/UX Design: Make a more modern/professional design implementation with a clear structure and layout.
 - Interactivity: Add Bootstrap 5 and Jquery to optimize dynamic elements like hover, searchbar, and interactive schedule effects. 
-- Accessibility: following procedures to improve user usability.
 - Performance: Optimize efficient scripts.
 
 4.2  Success Metrics
 - User Engagement: Increased the amount of time a user spends on the SOBIE site.
-- Accessibility: Ensures accessibility standards are met.
 - Performance: Ensure the service is up and running 99.99% of the time. 
 
 ### Project Roles & Responsibilities
@@ -51,11 +49,10 @@ Administrator
 - Front-End Developer: Josh Jordan looks at the design aspect of the website. 
 - UX/UI Designer: Austin Moses designs the visual elements of the website.
 
-### PLAN for Dev-King
+### PLAN
 [Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
 
 ### Borrowed Content
-
 
 
 
