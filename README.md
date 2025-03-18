@@ -54,8 +54,7 @@ Administrator
 [Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
 
 ### Borrowed Content
-- Interactivity profiles will be used for the SOBIE website:
-[Example](https://us.pycon.org/2025/)
+- Interactivity profiles will be used for the SOBIE website:[PYCON](https://us.pycon.org/2025/)
 
 - Information on archived SOBIE websites that will be used for layout purposes:
 [Old SOBIE](https://web.archive.org/web/20241001000000*/una.edu/sobie)
