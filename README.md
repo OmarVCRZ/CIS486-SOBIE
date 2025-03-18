@@ -13,7 +13,7 @@ The front end has design and usability issues that hinder user experience capaci
 
 ### User Information
 3.1 Primary Users & Their Needs
-  1. Attendees want to find the event details and register easily.
+  1. Attendees (Students) want to find the event details and register easily. 
   2. Administration/Organizers require an efficient way to gain access to event registrations and their content (Attendees/Presenters/Faculty)
   3. Researchers and Presenters need a quick and smooth process to submit papers and review the requirements needed. 
 
@@ -29,7 +29,7 @@ Researcher/Presenter Section
 Administrator
 - As_an administrator, I want a simple way to update any event details on the SOBIE website so that it can be reflected (ad banner) in real-time event.
 - As_an administrator, I want to have some form of dashboard to manage SOBIE registrations so that I can be able to track attendance.
-- As_an administrator, I want to manage contact form submissions so that I can respond to submission posts. 
+- As_an administrator, I want to manage contact form submissions (data) so that I can respond to submission posts. 
 
 ### Steps in Redesign & Metrics for Success 
 4.1 Actionable Improvements (Required/Necessary)
