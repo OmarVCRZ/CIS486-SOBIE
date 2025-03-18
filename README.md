@@ -57,4 +57,6 @@ Administrator
 - Interactivity profiles will be used for the SOBIE website:
 [Example](https://us.pycon.org/2025/)
 
+- Information on archived SOBIE websites that will be used for layout purposes:
+[Old SOBIE](https://web.archive.org/web/20241001000000*/una.edu/sobie)
 
