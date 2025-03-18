@@ -50,7 +50,7 @@ Administrator
 - UX/UI Designer: Austin Moses designs the visual elements of the website.
 
 ### PLAN for Dev-King 5
-The outline for the website design approach
+The outline for the website design approach:
 [Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
 
 ### Borrowed Content
