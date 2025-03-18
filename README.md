@@ -27,15 +27,15 @@ Researcher/Presenter Section
 - As_a presenter, I want to receive some form of confirmation upon my submission (EMAIL|SMS) so that I can verify that my paper was submitted and received. 
 - As_a researcher, I want to see some form of past information on papers and conference proceedings so that I can use them as a reference point (Plan for Dev-King 5)
 Administrator
-- As_an administrator, I want a simple way to update any event details on the SOBIE website so that it can be reflected (ad banner) in real-time event.
-- As_an administrator, I want to have some form of dashboard to manage SOBIE registrations so that I can be able to track attendance.
+- As_an administrator, I want a simple way to update any event details on the SOBIE website so that it can be reflected (ad banner) in real-time events.
+- As_an administrator, I want to have some form of dashboard to manage SOBIE registrations so that I can track attendance.
 - As_an administrator, I want to manage contact form submissions (data) so that I can respond to submission posts. 
 
 ### Steps in Redesign & Metrics for Success 
 4.1 Actionable Improvements (Required/Necessary)
-- Navigation: Redesign SOBIE'S website menu to increase reliability in accessing information like registering in the conference, submitting papers, etc. 
+- Navigation: Redesign SOBIE'S website menu to increase reliability in accessing information like registering for the conference, submitting papers, etc. 
 - UI/UX Design: Make a more modern/professional design implementation with a clear structure and layout.
-- Interactivity: Add Bootstrap 5 and Jquery to optimize dynamic elements like hover, searchbar, and interactive schedule effects. 
+- Interactivity: Add Bootstrap 5 and Jquery to optimize dynamic elements like hover, search bar, and interactive schedule effects. 
 - Performance: Optimize efficient scripts.
 
 4.2  Success Metrics
@@ -45,9 +45,9 @@ Administrator
 ### Project Roles & Responsibilities
 5.1 Roles/Responsibilities
 - Project Manager: Omar Diaz Martinez oversees the operation of the SOBIE project's milestones. 
-- Security Specialist: Marvin De La Cruz Serrano identifies vulnerabilities of the SOBIE website.
-- Front-End Developer: Josh Jordan looks at the design aspect of the website. 
-- UX/UI Designer: Austin Moses designs the visual elements of the website.
+- Security Specialist: Marvin De La Cruz Serrano identifies vulnerabilities of the SOBIE website and establishes security defenses. 
+- Front-End Developer: Josh Jordan is in charge of the front-end design implementation aspect of the SOBIE website.
+- UX/UI Designer: Austin Moses designs the visual elements and profiles of the SOBIE website.
 
 ### PLAN for Dev-King 5
 - The outline for the website design approach:
