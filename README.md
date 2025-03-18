@@ -51,7 +51,7 @@ Administrator
 
 ### PLAN for Dev-King 5
 - The outline for the website design approach:
-[Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
+[Design Approach](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
 - Current layout of the SOBIE website:
 [SOBIE Structure](https://sobieconference.org/)
 
