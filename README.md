@@ -2,14 +2,14 @@
 
 ### Introduction
 1.1 Website Overview: 
-- The SOBIE conference website is an informational hub for business faculty members, administration, conference organizers, attendees, researchers, students, etc. 
+- The SOBIE conference website is an informational hub for business faculty members, administration, conference organizers, attendees, researchers, students, etc (SOBIE, 2025).
 
 ### System As-Is Report
 2.2 Identified Issues
-The front end has design and usability issues that hinder user experience capacity. 
+The SOBIE website has front-end design and usability issues that hinder user experience capacity. 
 - The design is outdated; based on the website it has inconsistent styling and lacks visual appeal to the user experience. 
 - The navigation of the website has no clear menu structure, and it is hard to locate information because everything is jammed together at once. 
-- The interactivity of the SOBIE website is mostly a static page, lacking any user engagement features at all (Dr. Cumbie).  
+- The interactivity of the SOBIE website is mostly a static page, lacking any user engagement features at all (Dr. Cumbie, 2025).  
 
 ### User Information
 3.1 Primary Users & Their Needs
@@ -20,8 +20,8 @@ The front end has design and usability issues that hinder user experience capaci
 3.2 User Stories
 Attendee Section
 - As_a new attendee, I want to understand what SOBIE is about and the simple registration form so I can easily sign up.
-- As_a conference attendee, I want to quickly find event details so a schedule can be plan. 
-- As_a returning attendee, I want to log in and view my previous registrations so I can track my past conference information.
+- As_a conference attendee, I want to find event details and attend a conference. 
+- As_a conference attendee, I want to log in view my previous registrations, and track my past conference information.
 Researcher/Presenter Section
 - As_a researcher, I want a clear step-by-step process for submitting my paper without any sense of confusion or being lost in information. 
 - As_a presenter, I want to receive some form of confirmation upon my submission (EMAIL|SMS) so that I can verify that my paper was submitted and received. 
@@ -33,10 +33,10 @@ Administrator
 
 ### Steps in Redesign & Metrics for Success 
 4.1 Actionable Improvements (Required/Necessary)
-- Navigation: Redesign SOBIE'S website menu to increase reliability in accessing information like registering for the conference, submitting papers, etc. 
-- UI/UX Design: Make a more modern/professional design implementation with a clear structure and layout.
-- Interactivity: Add Bootstrap 5 and Jquery to optimize dynamic elements like hover, search bar, and interactive schedule effects. 
-- Performance: Optimize efficient scripts.
+- Navigation: Redesign SOBIE front-end website to increase reliability and usability for user experience in accessing information (registration, submission, managing/ viewing past events, etc). 
+- UI/UX Design: Establish a modern/professional design implementation that involves a clear structure and layout of the SOBIE website.   
+- Interactivity: Add front-end frameworks and libraries like Bootstrap 5 and jQuery to better optimize dynamic elements like hover, search bar, and interactive profiles. 
+- Performance: Optimize efficient javascripts for better performance in utilization.
 
 4.2  Success Metrics
 - User Engagement: Increased the amount of time a user spends on the SOBIE site.
