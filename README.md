@@ -54,4 +54,7 @@ Administrator
 ### PLAN
 [Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
 
+### Borrowed Content
+
+
 
