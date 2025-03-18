@@ -49,18 +49,9 @@ Administrator
 - Project Manager: Omar Diaz Martinez oversees the operation of the SOBIE project's milestones. 
 - Security Specialist: Marvin De La Cruz Serrano identifies vulnerabilities of the SOBIE website.
 - Front-End Developer: Josh Jordan looks at the design aspect of the website. 
-- UX/UI Designer: Austin Moses designs the visual elements of the website. 
-### Life Development Life Cycle 
-- Phase 1: Planning
-  - Identify objectives, project scope, and requirements
-- Phase 2: Analysis
-  - Evaluation of Sobie Website's structure, performance, and user experience
-- Phase 3: Design
-  - Construct visual concepts and layouts of the improvement of SOBIE. 
-- Phase 4: Development
-  - Establish new front-end design and configure improvement in functionality. 
-- Phase 5: Testing/Implementation
-  - Ensure the SOBIE website is functional and meets the criteria of performance and accessibility standards of objectives established in phase one; also launch the SOBIE website to the public access. 
-- Phase 6: Maintenance
-  - Continue to monitor and evaluate the performance of the SOBIE website and continue to improve it by regular updates
+- UX/UI Designer: Austin Moses designs the visual elements of the website.
+
+### PLAN
+[Outine](https://github.com/OmarVCRZ/CIS486-SOBIE/issues/1)
+
 
